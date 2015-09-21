@@ -1,0 +1,14 @@
+{
+  "name": "express-admin",
+  "descripcion": "haciendo un administrador",
+  "author": "Practicando se aprende danielhuamani15@gmail.com",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielhuamani/node-express-admin.git"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {}
+}
